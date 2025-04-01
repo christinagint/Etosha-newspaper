@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nationalpark - Neue Regeln</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .author {
+            font-size: 0.9em;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nationalpark führt neue Zeitbegrenzung ein</h1>
+        <p class="author">Von Max Mustermann | 1. April 2025</p>
+        <p>Besucher des Etwas Nationalparks müssen sich auf neue Einschränkungen einstellen. Ab sofort dürfen sie sich täglich nur noch maximal vier Stunden im Park aufhalten. Diese Maßnahme wurde ergriffen, um die Umwelt zu schützen und die wachsende Zahl an Touristen zu regulieren.</p>
+        <p>"Wir haben beobachtet, dass die steigende Besucherzahl einen erheblichen Einfluss auf die Tier- und Pflanzenwelt hat", erklärt Parkdirektorin Dr. Lisa Grünwald. "Mit dieser Begrenzung wollen wir eine nachhaltigere Nutzung des Parks ermöglichen."</p>
+        <p>Die Regelung gilt ab sofort und wird streng kontrolliert. Besucher erhalten beim Eintritt ein Ticket mit einem Zeitstempel, und beim Verlassen wird die Aufenthaltsdauer überprüft.</p>
+        <p>Weitere Informationen gibt es auf der offiziellen Webseite des Nationalparks.</p>
+    </div>
+</body>
+</html>
